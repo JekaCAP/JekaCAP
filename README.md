@@ -4,7 +4,9 @@
 🌱 Currently exploring **Data Structures & Algorithms**  
 🚀 Building a **Microservices-based Social Network**  
 
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNrMG4wNng5eXk0MXNsa3BpM2c0OTZic3l6aHZnaWpoY2pqd21uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)                        
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNrMG4wNng5eXk0MXNsa3BpM2c0OTZic3l6aHZnaWpoY2pqd21uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) 
+![Java Meme](https://media.tenor.com/M9pjP-xPHWAAAAAd/fireship-java.gif)
+
 
 ---
 
