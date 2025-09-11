@@ -16,12 +16,19 @@
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-5C2D91?logo=grpc&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-0F4C81?logo=liquibase&logoColor=white)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-0E83CD?logo=testcontainers&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-0A74DA?logo=oauth&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6C5CE7?logo=openapiinitiative&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-FC4C02?logo=lombok&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-2D5C5C?logo=mockito&logoColor=white)
 
 ---
 
