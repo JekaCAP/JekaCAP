@@ -1,7 +1,3 @@
-![Coding GIF](https://media.giphy.com/media/3o7TKP9pWk5o3LhYek/giphy.gif)
-![Programmer](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
-
-
 # 👋 Hi, I'm Evgeniy  
 
 💻 **Java Developer**  
@@ -38,11 +34,6 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JekaCAP&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekaCAP&layout=compact&theme=tokyonight)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JekaCAP&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JekaCAP&theme=tokyonight)
-
 ---
 
 ## 🌍 Connect with me
