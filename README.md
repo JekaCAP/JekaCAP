@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Evgeniy  
 
 💻 **Java Developer**  
-🌱 Currently exploring **Data Structures & Algorithms**  
-🚀 Building a **Microservices-based Social Network**  
-
-![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNrMG4wNng5eXk0MXNsa3BpM2c0OTZic3l6aHZnaWpoY2pqd21uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+🌱 Currently exploring **Data Structures & Algorithms**                                   ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNrMG4wNng5eXk0MXNsa3BpM2c0OTZic3l6aHZnaWpoY2pqd21uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+🚀 Building a **Microservices-based Social Network**                             
 
 ---
 
