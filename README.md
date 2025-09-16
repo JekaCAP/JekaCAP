@@ -34,6 +34,8 @@
 
 ---
 
+- [**Microservices Social Network**](https://github.com/JekaCAP/plus-smart-home-tech) – Проект на микросервисах: Spring Boot, Spring Cloud, Spring Data JPA, Kafka, Docker, gRPC, PostgreSQL, Maven.
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JekaCAP&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekaCAP&layout=compact&theme=tokyonight)  
 ---
