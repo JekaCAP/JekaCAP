@@ -32,7 +32,7 @@
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-2D5C5C?logo=mockito&logoColor=white)
 
----https://github.com/JekaCAP/logging-spring-boot-starter
+---
 
 - [**Smart-Home-Market**](https://github.com/JekaCAP/smart-home-market) – Проект умного дома и интернет магазина на микросервисах: Spring Boot, Spring Cloud, Spring Data JPA, Kafka, Docker, gRPC, PostgreSQL, Maven.
 - [**Explore-With-Friends**](https://github.com/JekaCAP/Explore-With-Friends) – Приложение-афиша, позволяющее пользователям делиться информацией об интересных событиях и находить компанию для участия в них: Spring Boot, Spring Data JPA, Docker, PostgreSQL, Maven.
