@@ -35,6 +35,8 @@
 ---
 
 - [**Smart-Home-Market**](https://github.com/JekaCAP/smart-home-market) – Проект умного дома и интернет магазина на микросервисах: Spring Boot, Spring Cloud, Spring Data JPA, Kafka, Docker, gRPC, PostgreSQL, Maven.
+- [**Explore-With-Friends**](https://github.com/JekaCAP/Explore-With-Friends) – Приложение-афиша, позволяющее пользователям делиться информацией об интересных событиях и находить компанию для участия в них: Spring Boot, Spring Data JPA, Docker, PostgreSQL, Maven.
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JekaCAP&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekaCAP&layout=compact&theme=tokyonight)  
