@@ -32,12 +32,6 @@
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-2D5C5C?logo=mockito&logoColor=white)
 
----
-
-- [**Smart-Home-Market**](https://github.com/JekaCAP/smart-home-market) – Проект умного дома и интернет магазина на микросервисах: Spring Boot, Spring Cloud, Spring Data JPA, Kafka, Docker, gRPC, PostgreSQL, Maven.
-- [**Explore-With-Friends**](https://github.com/JekaCAP/Explore-With-Friends) – Приложение-афиша, позволяющее пользователям делиться информацией об интересных событиях и находить компанию для участия в них: Spring Boot, Spring Data JPA, Docker, PostgreSQL, Maven.
-- [**Event-pulse**](https://github.com/JekaCAP/Event-pulse) – Distributed Event Recommendation Platform Интеллектуальная микросервисная система для организации мероприятий и персональных рекомендаций в реальном времени: Spring Boot, Spring Cloud, Spring Data JPA, Kafka, Docker, gRPC, PostgreSQL, Maven.
-- [**Logging-Starter**](https://github.com/JekaCAP/logging-spring-boot-starter) – Автоконфигурируемый Spring Boot стартер, который добавляет автоматическое логирование вызовов методов через AOP.
 
 
 ## 📊 GitHub Stats
